@@ -17,7 +17,6 @@ public static class SuperParallel
         Task.WaitAll(tasks);
     }
 
-    // 2. Метод For: параллельный аналог цикла for
     public static void For(int fromInclusive, int toExclusive, Action<int> body)
     {
         if (body == null) return;
