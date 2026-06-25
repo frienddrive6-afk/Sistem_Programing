@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="PCQ/PCQ.csproj" />
+  <Project Path="project1/project1.csproj" />
+  <Project Path="project2/project2.csproj" />
+  <Project Path="project3/project3.csproj" />
+</Solution>

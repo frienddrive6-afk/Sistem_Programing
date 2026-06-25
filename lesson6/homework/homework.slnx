@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="PCQ/PCQ.csproj" />
+  <Project Path="project1/project1.csproj" />
+</Solution>
